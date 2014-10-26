@@ -11,7 +11,15 @@ public class LoginValidator {
 	}
 	
 	public void ValidatorUserCredentials(){
+		if(username.equals(usr)&&password.equals(pss)){
+			//Values usr and pss are supplied by servlet.
+		}
+		else{
+
+		}
 		
+
+
 	}
 
 }
