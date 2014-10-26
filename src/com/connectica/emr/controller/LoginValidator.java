@@ -11,7 +11,7 @@ public class LoginValidator {
 	}
 	
 	public void ValidatorUserCredentials(){
-		//
+		
 	}
 
 }
